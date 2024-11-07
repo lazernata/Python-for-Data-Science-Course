@@ -1,0 +1,17 @@
+ID_Pedido;Unidades;Precio Unitario;Fecha;Línea de Producto;Código de Producto;País;Territorio
+3;66;85,39;01/06/2022;Classic Cars;S12_1099;Finland;EU
+4;68;96,73;01/06/2022;Classic Cars;S12_3380;Finland;EU
+5;68;81,62;01/06/2022;Classic Cars;S12_3990;Finland;EU
+6;92;88,45;01/06/2022;Classic Cars;S12_4675;Finland;EU
+7;44;100;01/06/2022;Classic Cars;S18_1889;Finland;EU
+10;92;60,3;01/06/2022;Classic Cars;S18_3278;Finland;EU
+11;48;100;01/06/2022;Classic Cars;S18_3482;Spain;EU
+12;64;89,12;01/06/2022;Motorcycles;S18_3782;Spain;EU
+13;56;58,18;01/06/2022;Classic Cars;S18_4721;Spain;EU
+8;42;100;01/06/2022;Motorcycles;S24_2000;Spain;EU
+14;86;61,23;01/06/2022;Motorcycles;S24_2360;Spain;EU
+15;42;100;01/06/2022;Classic Cars;S24_3371;Spain;EU
+1;62;94,58;01/06/2022;Classic Cars;S24_3856;Spain;EU
+9;86;100;01/06/2022;Classic Cars;S24_4620;Spain;EU
+2;100;100;01/06/2022;Motorcycles;S32_1374;Spain;EU
+1;96;48,28;01/06/2022;Motorcycles;S32_2206;Spain;EU

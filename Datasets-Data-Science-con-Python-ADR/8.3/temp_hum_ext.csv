@@ -1,0 +1,27 @@
+Estación,Provincia,Temperatura (ºC),Velocidad del viento (km/h),Dirección del viento,Racha (km/h),Dirección de racha,Precipitación (mm),Presión (hPa),Tendencia (hPa),Humedad (%)
+Azuaga,Badajoz,12.6,9,Oeste,14,Noroeste,0.0,,,62.0
+Badajoz,Badajoz,11.1,3,Oeste,8,Noroeste,0.0,,,90.0
+Badajoz Aeropuerto,Badajoz,14.4,5,Oeste,11,Oeste,0.0,995.7,0.9,71.0
+Barcarrota,Badajoz,8.4,5,Este,10,Este,0.0,974.3,0.4,94.0
+Brozas,Cáceres,13.3,13,Nordeste,23,Nordeste,0.0,,,61.0
+Cáceres,Cáceres,14.0,4,Nordeste,8,Este,0.0,972.2,1.0,52.0
+Cañamero,Cáceres,14.2,6,Nordeste,14,Nordeste,0.0,,,56.0
+Coria,Cáceres,12.7,4,Este,6,Sudeste,0.0,981.5,1.0,62.0
+Don Benito,Badajoz,13.3,4,Sudoeste,7,Sudoeste,0.0,985.2,1.0,55.0
+Herrera del Duque,Badajoz,14.1,5,Sudoeste,10,Sudeste,0.0,965.3,0.9,56.0
+Jerez de los Caballeros,Badajoz,13.7,2,Oeste,5,Sudoeste,0.0,973.3,0.6,72.0
+Llerena,Badajoz,14.2,4,Oeste,12,Oeste,0.0,942.2,0.7,56.0
+Madrigal de la Vera,Cáceres,14.6,3,Noroeste,5,Norte,0.0,,,58.0
+Mérida,Badajoz,,6,Oeste,12,Oeste,0.0,,,82.0
+Navalmoral de la Mata,Cáceres,14.7,6,Este,10,Este,0.0,986.5,1.1,56.0
+Navalvillar de Ibor,Cáceres,12.1,3,Norte,10,Sur,0.0,,,59.0
+Nuñomoral,Cáceres,6.7,4,Norte,7,Noroeste,0.0,,,87.0
+Olivenza,Badajoz,12.2,6,Sudoeste,9,Sudoeste,0.0,,,85.0
+Piornal,Cáceres,8.9,8,Este,21,Este,0.0,,,69.0
+Plasencia,Cáceres,12.4,0,Calma,9,Nordeste,0.0,,,69.0
+Serradilla,Cáceres,15.0,19,Nordeste,31,Nordeste,0.0,,,56.0
+Tornavacas,Cáceres,9.1,8,Este,14,Sudeste,0.0,,,63.0
+Trujillo,Cáceres,11.9,0,Calma,9,Sudeste,0.0,,,43.0
+Valencia de Alcántara,Cáceres,11.2,6,Sudoeste,9,Sudoeste,0.0,966.0,0.4,77.0
+Zafra,Badajoz,10.4,5,Sudeste,7,Sudeste,0.0,,,79.0
+Zarza La Mayor,Cáceres,14.4,4,Norte,12,Norte,0.0,,,58.0
