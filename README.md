@@ -42,5 +42,3 @@ Prácticas en la creación de scripts de Python y la automatización de tareas, 
 Cada sección contiene un conjunto de ejercicios prácticos organizados en Jupyter Notebooks, siguiendo el orden de los módulos del curso. Se recomienda revisar cada Notebook para consolidar los conocimientos y habilidades en Python para el análisis de datos.
 
 ---
-
-Este `README` debería ayudar a cualquier persona a entender rápidamente los temas cubiertos y los ejercicios incluidos en tu repositorio.
