@@ -1,5 +1,3 @@
-Aquí tienes el archivo `README.md` en formato Markdown para tu repositorio, con un resumen de los ejercicios completados en cada apartado del curso:
-
 ---
 
 # Ejercicios Completados - Python para el Análisis de Datos
